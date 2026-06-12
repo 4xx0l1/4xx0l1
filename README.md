@@ -1,7 +1,8 @@
 <h1>Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Matteo Azzoli</h1>
 <h3>I'm a High School Student of CS at the Institute Jean Monnet, Mariano Comense (CO), Italy</h3>
 <div Align=center>
-  # Languages:
+  <h1>Languages:</h1>
+  
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -26,14 +27,15 @@
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
   ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) 
   
-  ### Sono un Appassionato di Videogiochi:
+  ## Sono un Appassionato di Videogiochi:
   ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
   ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) 
   ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) 
   ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) 
   ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) 
+  <p>Soprattutto FromSoftware</p>
   
-  # Stats:
+  ## Stats:
   ![](https://github-readme-stats.shion.dev/api?username=4xx0l1&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
   ![](https://streak-stats.demolab.com/?user=4xx0l1&theme=dark&hide_border=true)<br/>
   ![](https://github-readme-stats.shion.dev/api/top-langs/?username=4xx0l1&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
