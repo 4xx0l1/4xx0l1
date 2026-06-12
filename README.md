@@ -1,8 +1,8 @@
-# Ciao! Sono Matteo 👋
+# Ciao! Sono Matteo 
 
 ---
 
-### 🛠️ Il mio Tech Stack
+### Linguaggi
 
 #### Sviluppo Web (Frontend & Backend)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,13 +19,3 @@
 #### Hardware & Modellazione
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-%23333333.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)
-
----
-
-**### 📊 Le mie statistiche di GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=4xx0l1&show_icons=true&theme=radial&count_private=true" alt="Le mie statistiche GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4xx0l1&layout=compact&theme=radial&count_private=true" alt="I miei linguaggi più usati" height="150" />
-</p>
-**
