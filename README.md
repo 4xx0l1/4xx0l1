@@ -33,7 +33,7 @@
   ![](https://github-readme-stats.shion.dev/api/top-langs/?username=4xx0l1&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
-<picture>
+<picture Align=center>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
