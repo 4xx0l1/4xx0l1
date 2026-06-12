@@ -22,9 +22,10 @@
 
 ---
 
-### 📊 Le mie statistiche di GitHub
+**### 📊 Le mie statistiche di GitHub
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=4xx0l1&show_icons=true&theme=radial&count_private=true" alt="Le mie statistiche GitHub" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4xx0l1&layout=compact&theme=radial&count_private=true" alt="I miei linguaggi più usati" height="150" />
 </p>
+**
