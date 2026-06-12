@@ -1,7 +1,3 @@
-# Ciao! Sono Matteo 
-
----
-
 ### Linguaggi
 
 #### Sviluppo Web (Frontend & Backend)
